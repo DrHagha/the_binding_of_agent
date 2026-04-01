@@ -68,6 +68,12 @@ sysinfo.txt
 ehthumbs.db
 Thumbs.db
 
+# Unity package manager DLLs (restored by Unity on import)
+Assets/Plugins/Unity.*.dll
+Assets/Plugins/Unity.*.dll.meta
+Assets/Plugins/UnityEngine.*.dll
+Assets/Plugins/UnityEngine.*.dll.meta
+
 # IDE
 .idea/
 .vs/
